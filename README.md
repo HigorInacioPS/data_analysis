@@ -70,5 +70,5 @@ Você pode executar este notebook diretamente no Google Colab:
 
 ## ✍️ Autor
 
-- Nome: *[Seu nome aqui]*
+- Nome: Higor Inacio Pereira Sousa
 - Projeto educacional fictício com fins de estudo e prática em análise de dados.
